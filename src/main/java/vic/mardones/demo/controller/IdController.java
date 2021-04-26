@@ -11,4 +11,5 @@ public class IdController {
         // Nota importante: HTML no reconoce \n, pero <br> si
         return "Nombre: " + nombre + "<br>ID: " + id;
     }
+
 }
